@@ -14,7 +14,33 @@ NGL AUTO SPAM UNTUK ANDROID GRATIS
 - INFO (GAUSH PAKAI TANDA $)
 ```bash
 $ termux-setup-storage
+```
+
+- Do You Want Continue Y/N? jawab: Y
+
+```bash
 $ cd storage
 $ cd downloads
 $ cd ngl-auto-spam2-main
-jd
+$ php algaza.php
+$ Masukkan nama target Contoh: ngl.link/marvelyt input: marvelyt
+```
+
+- Tunggu sampai semua pesan ke kirim
+
+Its all setup ngl
+<hr>
+
+## 📜 Features
+- Auto Spam Text Ngl
+
+## 📝 Requirements
+- Visual Studio
+- Microsoft Visual C++ Redistributable
+
+
+## CREDITS
+- Marvelyt
+- Dave
+
+
