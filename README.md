@@ -13,4 +13,5 @@ NGL AUTO SPAM UNTUK ANDROID GRATIS
 - INFO (GAUSH PAKAI TANDA $)
 ```bash
 $ termux-setup-storage
-$ CD
+$ cd storage
+$ cd downloads
