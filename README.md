@@ -1,2 +1,9 @@
-# ngl-auto-spam2
+# NGL AUTO SPAM
 NGL AUTO SPAM MADE BY MARVELYT
+CARA PAKAI DI ANDROID SCROLL KE BAWAH ANDROID (TERMUX))
+
+# Android(Termux)
+Download Lu Codenya
+1. CD storage
+2. ls
+3. CD downloaded 
