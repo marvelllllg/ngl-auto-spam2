@@ -7,7 +7,7 @@ NGL AUTO SPAM UNTUK ANDROID GRATIS
 
 <h2>Android(Termux)</h2>
 
-- Download Termux Di Play Store Link: https://play.google.com/store/apps/details?id=com.termux
+- Download Termux Di Play Store Link: [CLICK HERE](https://play.google.com/store/apps/details?id=com.termux)
 - download codenya
 - Buka Termux dan run code dibawah
 - INFO (GAUSH PAKAI TANDA $)
