@@ -35,8 +35,8 @@ Its all setup ngl
 - Auto Spam Text Ngl
 
 ## 📝 Requirements
-- Visual Studio
-- Microsoft Visual C++ Redistributable
+- [√]Visual Studio
+- [×]Microsoft Visual C++ Redistributable
 
 
 ## CREDITS
