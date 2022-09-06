@@ -32,7 +32,7 @@ Its all setup ngl
 <hr>
 
 ## 📜 Features
-- [x] Auto Spam Text Ngl
+- [√] Auto Spam Text Ngl
 
 ## 📝 Requirements
 - Visual Studio
