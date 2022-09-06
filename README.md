@@ -32,11 +32,11 @@ Its all setup ngl
 <hr>
 
 ## 📜 Features
-- Auto Spam Text Ngl
+- [√] Auto Spam Text Ngl
 
 ## 📝 Requirements
-- [√]Visual Studio
-- [×]Microsoft Visual C++ Redistributable
+- Visual Studio
+- Microsoft Visual C++ Redistributable
 
 
 ## CREDITS
